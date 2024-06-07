@@ -17,6 +17,10 @@ h1 {
     background-color: rgb(58,80,107);
 }
 
+.normal {
+    padding: 20px;
+}
+
 #navbar {
     overflow: hidden;
     width: 100%;
